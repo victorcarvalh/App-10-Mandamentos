@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.os10mandamentos">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Os10Mandamentos">
+        <activity android:name=".TelaAgradecimentos">
+        </activity>
+        <activity android:name=".Tela_10Mandamentos" />
+        <activity android:name=".Tela9Mandamento" />
+        <activity android:name=".tela8Mandamento" />
+        <activity android:name=".Tela7Mandamento" />
+        <activity android:name=".Tela6Mandamento" />
+        <activity android:name=".Tela5Mandamento" />
+        <activity android:name=".Tela4Mandamento" />
+        <activity android:name=".Tela3Mandamento" />
+        <activity android:name=".Tela2Mandamento" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

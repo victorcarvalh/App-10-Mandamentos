@@ -1,0 +1,64 @@
+<resources>
+    <!--Cabeçalho-->
+    <string name="app_name">Os 10 Mandamentos</string>
+    <string name="txvTitulo">Esses são os mandamentos da lei de Deus</string>
+
+
+    <!--Texto-->
+    <string name="texto_1_Mandamento">Amar a Deus Acima de todas as coisas</string>
+    <string name="Texto_2_Mandamento">Não tomar o Seu santo Nome em vão.</string>
+    <string name="texto_3_Mandamento">Guardar os domingos e dias santos.</string>
+    <string name="texto_4_Mandamento">Honrar pai e mãe.</string>
+    <string name="texto_5_Mandamentos">Não matar.</string>
+    <string name="texto_6_mandamento">Não pecar contra a castidade.</string>
+    <string name="texto_7_Mandamento">Não furtar.</string>
+    <string name="texto_8_Mandamento">Não levantar falso testemunho.</string>
+    <string name="texto_9_Mandamento">Não desejar a mulher do próximo.</string>
+    <string name="texto_10_Mandamento">Não cobiçar as coisas alheias.</string>
+    <string name="texto_titulo1M">1° Mandamento:</string>
+    <string name="texto_titulo_2M">2° Mandamento:</string>
+    <string name="texto_titulo_3M">3° Mandamento:</string>
+    <string name="texto_titulo_4M">4° Mandamento:</string>
+    <string name="texto_titulo_5M">5° Mandamento:</string>
+    <string name="texto_titulo_6M">6° Mandamento:</string>
+    <string name="texto_titulo_7M">7° Mandamento:</string>
+    <string name="texto_titulo_8M">8° Mandamento:</string>
+    <string name="texto_titulo_9M">9° Mandamento:</string>
+    <string name="texto_titulo_10M">10° Mandamento:</string>
+    <string name="texto_sim1M">Sim</string>
+    <string name="texto_nao1M">Não</string>
+    <string name="texto_sim_2M">Sim</string>
+    <string name="texto_nao_2M">Não</string>
+    <string name="Texto_pergunta1">Agora que já conhece um pouco mais sobre Deus e suas leis, está pronto para entrar na maravilhosa jornada de salvação?</string>
+    <string name="texto_pergunta2M">Agora que já conhece um pouco mais sobre Deus e suas leis, está pronto para entrar na maravilhosa jornada de salvação?</string>
+    <string name="Texto_1P1M">Amar a Deus no próximo, através do nosso irmão. Temos que nos assemelharmos à Ele, e para isso nos temos que; Amar, Perdoar, e Servir a todos e a ninguém excluir</string>
+    <string name="Texto_2P1M">Para Jesus, toda a Lei de Deus resume-se no mandamento do amor a Deus e ao próxim \'Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma e com toda a tua mente.Este é o maior e o primeiro dos mandamentos. E o segundo é semelhante ao primeiro: amarás o teu próximo como a ti mesmo. Destes dois mandamentos depende toda a Lei e os Profetas\' Mt 22:37-40.</string>
+    <string name="texto_1P2M">Esse mandamento manda respeitar o nome do Senhor e honrar o nome de Deus. Não se deve pronunciar senão para o bendizer, louvar e glorificar</string>
+    <string name="texto_2P2M">Deus tem um nome. Não é uma força anônima. Deus é “Santo”, o que significa que é absolutamente superior, que está acima de toda criatura, que é transcendente.No Novo Testamento, Deus dá a conhecer o mistério de Sua vida íntima trinitária: um único Deus em Três Pessoas: Pai, Filho e Espírito Santo. Jesus Cristo ensina-nos a chamar a Deus “Pai”. No Pai-nosso rezamos: “Santificado seja o vosso nome”. O termo “santificar” deve entender-se aqui no sentido de «reconhecer o nome de Deus como santo, tratar seu nome de uma maneira santa</string>
+    <string name="texto_1P3M">Esse mandamento está intimamente relacionado ao culto a Deus. As sagradas Escrituras o apresentam desta forma: “Lembra-te do dia do sábado para santificá-lo. Trabalharás durante seis dias, e farás toda a tua obra. O sétimo, porém, é o sábado de Iahweh teu Deus […]” (Ex 20,8-11).</string>
+    <string name="Texto_2P3M">Com a ressurreição de Jesus no dia de domingo, ele dá um novo sentido ao dia que se deve observar e honrar a Deus. Para os cristãos, o domingo se torna o primeiro de todos os dias, “a primeira de todas as festas, o dia do Senhor”. Com isso, a observação do domingo para nós cristãos cumpre-se “o preceito moral da Antiga Aliança, cujo ritmo e espírito retoma ao celebrar cada semana o Criador e o Redentor de seu povo</string>
+    <string name="texto_1P4M">O 4° Mandamento se difere dos demais mandamentos do Decálogo. Deus, ao dar este mandamento, também adicionou uma promessa específica: “para que você viva muito tempo na terra”.</string>
+    <string name="Texto_2P_4M">Jesus resumiu no Evangelho de Marcos, capítulo 7, tanto o mandamento e o que, de acordo com este mandamento, aconteceria se não guardar: “Porque Moisés disse: Honra a teu pai e a tua mãe; e quem maldisser, ou o pai ou a mãe, certamente morrerá.”</string>
+    <string name="texto_1P5M">O quinto mandamento significa observar e acatar o respeito devido ao valor da vida humana, desde sua origem (a concepção) até o término do curso natural da vida terrena. Desde a concepção até a morte, a vida humana é sagrada, porque foi criada à “imagem e semelhança” de Deus.</string>
+    <string name="texto_2P5M">“Não matarás” (Ex. 20,13). Este mandamento atesta que a vida humana é sagrada e desde seu início ela supõe a ação criadora de Deus e mantém-se para sempre numa relação especial com o Criador, seu único fim. A ninguém é lícito destruir diretamente um ser humano inocente, pois é um ato gravemente contrário à dignidade da pessoa e à santidade do Criador.</string>
+    <string name="Texto_1P6M">Esse mandamento é um dos mais difíceis de viver hoje em dia, sobretudo porque o mundo de hoje exalta o sensual e o sexual, não tendo em conta toda a plenitude que a castidade traz à pessoa.</string>
+    <string name="texto_2P6M">sexto mandamento engloba todo o conjunto da sexualidade humana. É um convite à vivência da castidade, que é a integração correta da sexualidade na pessoa. Longe de limitar-se ao âmbito do corporal, a castidade nos permite nos relacionarmos e nos doarmos ao outro de uma forma plena e integral. Para a vivência da castidade é necessário aprendermos a ter o domínio sobre nós mesmos, que alcançamos com a vivência da virtude cardeal da temperança. E pelo fato da castidade ser um dom de Deus, Ele nunca nos abandona. Ele nos dá a sua graça para que possamos vivê-la em plenitude.</string>
+    <string name="texto_1P7M">O sétimo mandamento faz parte dos preceitos necessários para ter a vida eterna. Lemos no Evangelho de Mateus: \'Se queres entrar na vida, observa os mandamentos: Não matarás, não adulterarás, não furtarás, não dirás falso testemunho, honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo\'. (Mt 19,17-19).</string>
+    <string name="texto2P7M">O roubo é realmente um roubo de propriedade de outras pessoas contra a vontade razoável do mestre e é uma afronta à justiça e ainda mais para a caridade. O sétimo mandamento proíbe injustamente captura ou detenção de bens e de dano ao próximo em seus bens de forma alguma.</string>
+    <string name="texto_1P8M">O Oitavo Mandamento prescreve o seguinte: Não levantar falso testemunho (cf. Ex 20,16), ou seja, proíbe-nos falsear a verdade nas relações com os outros. Essa prescrição moral decorre da vocação do povo santo a ser testemunho de seu Deus, que é e quer a verdade</string>
+    <string name="texto_2P8M">Viver no respeito pela verdade não significa apenas ser fiel a si mesmo. Ser verdadeiro significa ser fiel a Deus, pois, em Jesus Cristo, a verdade de Deus manifestou-se na sua totalidade: Ele é a Verdade. Seguir Jesus é viver doEspírito de verdade» (cf. Jo 14,17) e evitar a duplicidade, a simulação e a hipocrisia.</string>
+    <string name="texto1P9M">O nono mandamento adverte contra a concupiscência carnal, entendendo-se que não se deve cobiçar a filha, a esposa, a namorada, a irmã, a companheira, a serva do próximo, distinguindo, porém, em cada criatura humana a “imagem e semelhança” de Deus.</string>
+    <string name="texto2p9M">Não cobiçarás a casa de teu próximo, não desejarás sua mulher, nem seu servo, nem sua serva, nem seu boi, nem seu jumento, nem coisa alguma que pertença a teu próximo (Ex 20,17). Todo aquele que olha para uma mulher com desejo libidinoso já cometeu adultério com ela em seu coração (Mt 5,28).</string>
+    <string name="texto_2P10M">Este mandamento nos convida a não ter cobiça dos bens que o meu próximo possui, bem como desejar com medida os bens temporais. “Onde está o teu tesouro, aí estará também o teu coração” (Dt 5,21)</string>
+    <string name="texto_1P10M">O décimo mandamento desdobra e completa o nono. Convida-nos a não ter cobiça dos bens que o meu próximo possui, bem como desejar com medida os bens temporais. Possui relação direta com esse mandamento os pecados capitais da inveja, avareza.O avarento é aquele que possui um desejo desordenado de possuir bens materiais. É tão apegado que o seu coração se fecha à caridade, não vendo a necessidade que tem os seus irmãos.</string>
+    <string name="texto_Parabens">Parabéns por escolher o mundo da salvação</string>
+    <string name="texto_Redes_Sociais">Agora, para entender mais sobre o caminho de Cristo, siga-nos nas Redes socias:</string>
+
+    <!--Botão-->
+    <string name="botao_ver_mais">Ver Mais</string>
+
+
+
+
+
+</resources>
